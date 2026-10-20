@@ -6,6 +6,8 @@ compatibility: 核心问答流程不依赖任何工具；生成 HTML 报告可�
 
 # 费曼测试（Feynman Test）
 
+> 来源：[LeeAt67/feynman-test](https://github.com/LeeAt67/feynman-test/tree/main)。
+
 通过「让用户扮演老师、我扮演完全不懂的新手」，用持续追问和质疑逼迫用户把知识讲透，暴露理解盲区。最后对照知识源，输出一份掌握度评估报告。
 
 ## 核心理念
