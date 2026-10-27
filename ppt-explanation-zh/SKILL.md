@@ -391,3 +391,5 @@ description: >
 未实际编译，不得声称编译成功；未运行代码，不得声称运行验证通过；未读到原文，不得声称已经逐句覆盖。最终说明应与实际产物和检查记录一致。
 
 [^amsmath]: American Mathematical Society 与 LaTeX Project，[*User’s Guide for the amsmath Package*](https://www.latex-project.org/help/documentation/amsldoc.pdf)，§3（独立公式）、§6（`\text` 命令）。该资料仅用于本 skill 的 LaTeX 实现规范，不是课程内容的引用来源。
+
+OB-S:RaWFZt92V4b_q_UlqtQzAw
