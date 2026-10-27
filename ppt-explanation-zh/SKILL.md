@@ -392,4 +392,4 @@ description: >
 
 [^amsmath]: American Mathematical Society 与 LaTeX Project，[*User’s Guide for the amsmath Package*](https://www.latex-project.org/help/documentation/amsldoc.pdf)，§3（独立公式）、§6（`\text` 命令）。该资料仅用于本 skill 的 LaTeX 实现规范，不是课程内容的引用来源。
 
-OB-S:RaWFZt92V4b_q_UlqtQzAw
+<!-- OB-S:RaWFZt92V4b_q_UlqtQzAw -->
